@@ -24,7 +24,7 @@ The objective of the Cyberguide Chatbot project is to create an interactive and 
 - Chatbot Design and Development: Designed the chatbot to provide cybersecurity tips in a user-friendly manner, leveraging the Poe AI platform.
 - Content Creation: Developed clear and practical tips on creating strong passwords, enabling 2FA, and identifying phishing attempts.
 - Interactive Features: Implemented interactive elements such as quizzes and scenarios to enhance user engagement and learning.
-- Visual Elements: Created and integrated digital lock and shield images to reinforce the cybersecurity theme.
+- Visual Elements: Created and integrated digital lock and shield images to reinforce the cybersecurity theme created an AI-generated image for the logo (icon) using Magic Studio.
 - Testing and Refinement: Conducted thorough testing to ensure the chatbot responds accurately and effectively to user queries.
 - Deployment: Deployed the chatbot and made it accessible for users seeking to enhance their cybersecurity knowledge.
   
@@ -34,3 +34,12 @@ This project aims to strengthen users' cybersecurity practices by providing them
 
 ![Screenshot from 2024-06-18 14-54-15](https://github.com/steventelfer/AI-Chatbot-Project-Implementation-/assets/145903293/3288270d-72e5-4b38-a5e3-5fede49fb37a)
 
+
+![Screenshot from 2024-06-18 14-56-14](https://github.com/steventelfer/AI-Chatbot-Project-Implementation-/assets/145903293/772395f6-96c1-4edc-ab1d-95b178ecf5bb)
+
+
+
+![Screenshot from 2024-06-18 14-57-48](https://github.com/steventelfer/AI-Chatbot-Project-Implementation-/assets/145903293/531438cb-062d-46d3-9aa7-c58925557efa)
+
+
+![Screenshot from 2024-06-18 14-53-38](https://github.com/steventelfer/AI-Chatbot-Project-Implementation-/assets/145903293/23e9986e-41ad-4cbc-9126-8b62c60e43f6)
