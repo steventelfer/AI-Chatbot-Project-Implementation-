@@ -1,5 +1,6 @@
-Cyberguide Chatbot
-Objective:
+# Cyberguide Chatbot
+
+### Objective:
 The objective of the Cyberguide Chatbot project is to create an interactive and user-friendly chatbot that provides practical advice on cybersecurity best practices. The primary goal is to help users secure their personal devices, networks, and online accounts by offering tips on creating strong passwords, enabling two-factor authentication (2FA), and identifying phishing attempts. This project aims to enhance cybersecurity awareness and empower users to implement effective security measures.
 
 ### Skills Learned:
