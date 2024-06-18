@@ -2,7 +2,7 @@ Cyberguide Chatbot
 Objective:
 The objective of the Cyberguide Chatbot project is to create an interactive and user-friendly chatbot that provides practical advice on cybersecurity best practices. The primary goal is to help users secure their personal devices, networks, and online accounts by offering tips on creating strong passwords, enabling two-factor authentication (2FA), and identifying phishing attempts. This project aims to enhance cybersecurity awareness and empower users to implement effective security measures.
 
-Skills Learned:
+### Skills Learned:
 
 Development and deployment of AI-powered chatbots.
 Understanding and communication of cybersecurity best practices.
@@ -10,7 +10,7 @@ User interaction design and engagement strategies.
 Practical application of cybersecurity tools and techniques.
 Integration of AI tools and platforms for chatbot creation.
 
-Tools Used:
+### Tools Used:
 
 Poe AI Platform: Utilized for chatbot development and natural language processing.
 Markdown: Used for writing clear and concise documentation.
@@ -18,7 +18,7 @@ GitHub: Version control and project collaboration.
 Image Generation Tools: Created digital lock and shield images for visual elements using Magic Studio.
 Cybersecurity Resources: Referenced industry-standard best practices for content accuracy.
 
-Steps:
+### Steps:
 
 Chatbot Design and Development: Designed the chatbot to provide cybersecurity tips in a user-friendly manner, leveraging the Poe AI platform.
 Content Creation: Developed clear and practical tips on creating strong passwords, enabling 2FA, and identifying phishing attempts.
